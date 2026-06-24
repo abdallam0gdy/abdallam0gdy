@@ -28,10 +28,20 @@
 <br/>
 
 <p align="center">
+  <img src="assets/terminal-banner.svg" width="100%"/>
+</p>
+
+<br/>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=4&section=header&width=100%" width="100%"/>
 </p>
 
 ### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="assets/orbit-skills.svg" width="280"/>
+</p>
 
 **Front End**
 <p align="left">
